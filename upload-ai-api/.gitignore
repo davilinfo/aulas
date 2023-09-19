@@ -1,0 +1,6 @@
+node_modules
+# Keep environment variables out of version control
+.env
+#keep mp3 audio files out of version control
+.mp3
+tmp
